@@ -78,6 +78,9 @@ $RECYCLE.BIN/
 *.swp
 *~
 
+# Playwright MCP
+.playwright-mcp/
+
 # Logs & Temp
 tmp/
 temp/
